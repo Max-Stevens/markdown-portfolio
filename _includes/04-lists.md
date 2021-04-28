@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] Create a list
+- [ ] Complete the tasks
+- [ ] ???
+- [ ] Profit!
