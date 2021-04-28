@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of our lord and saviour longcat](https://static.independent.co.uk/2020/09/22/09/Untitled.png?width=990&auto=webp&quality=75)
