@@ -1,4 +1,4 @@
-- [ ] Create a list
-- [ ] Complete the tasks
-- [ ] ???
-- [ ] Profit!
+1. Create a list
+2. Complete the tasks
+3. ???
+   - Profit?
